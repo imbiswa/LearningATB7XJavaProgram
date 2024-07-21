@@ -12,10 +12,7 @@ public class FizzBuzz {
             {
                 System.out.print(i+", ");
             }
-           if(i%3==0)
-            {
-                System.out.print("fuzz, ");
-            }
+           if(i%3==0) {System.out.print("fuzz, ");}
             if(i%5==0)
             {
                 System.out.print("buzz, ");
