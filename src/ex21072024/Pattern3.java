@@ -1,6 +1,7 @@
 package ex21072024;
 
-public class StarTriangle2 {
+public class Pattern3
+{
     public static void main(String[] args) {
 
 
@@ -18,6 +19,10 @@ public class StarTriangle2 {
                 System.out.print(" *");
             }
 
+            for(int j=1;j<i;j++)
+            {
+                System.out.print(" *");
+            }
             System.out.println();
         }
 
