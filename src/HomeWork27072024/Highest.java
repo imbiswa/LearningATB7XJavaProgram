@@ -27,6 +27,7 @@ public class Highest
         System.out.println(A[0]);//highest
         System.out.println(A[0+1]);//2nd highest
         System.out.println(A[2]);// 3rd highest
+        System.out.println(A[A.length-1]);
 
 
     }
