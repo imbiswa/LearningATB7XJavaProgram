@@ -40,9 +40,10 @@ public class SandGlass
 
 
 
+
     public static void main(String[] args) {
-        glassPartOne(6);
-        glassPartTwo(6);
+        glassPartOne(10);
+        glassPartTwo(10);
 
     }
 }
