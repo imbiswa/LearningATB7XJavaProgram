@@ -4,7 +4,7 @@ public class Rotation {
     public static void main(String[] args) {
 
 
-        String s = "abcd1abcd";
+        String s = "abcd abcd";
 
 
         String rot1 = "";

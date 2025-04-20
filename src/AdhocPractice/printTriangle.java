@@ -31,7 +31,7 @@ public class printTriangle
 
             }
             for (int j = i; j <=b ; j++) {
-                System.out.print("* ");
+                System.out.print(" * ");
 
             }
             System.out.println();

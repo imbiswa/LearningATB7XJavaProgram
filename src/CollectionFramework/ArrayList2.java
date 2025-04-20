@@ -16,7 +16,7 @@ public class ArrayList2 {
         hm.put(1,"IND");
         hm.put(2,"MAR");
         System.out.println(hm);
-        Set<Integer> hs = new HashSet<Integer>(ar);
+        Set<Integer> hs = new HashSet<Integer>(ar.size());
         System.out.println(hs);
     }
 }

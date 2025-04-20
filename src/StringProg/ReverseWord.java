@@ -4,7 +4,7 @@ public class ReverseWord {
 
     public static void main(String[] args) {
 //opentax
-        String s1= "India is my country";
+        String s1= "India";
         String s2="";
 
         //output =yrtnuou ym si aidni"
